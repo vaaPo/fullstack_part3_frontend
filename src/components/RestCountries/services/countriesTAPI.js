@@ -1,6 +1,6 @@
 import axios from 'axios';
-const baseUrl = 'http://localhost:3001/all_name_capital_population_flag_alpha3Code';    // local json-server handcrafted db.json with countries
-//const baseUrl = 'https://restcountries.eu/rest/v2/all?fields=name;capital;population;flag;alpha3Code'; //remote url
+//const baseUrl = 'http://localhost:3001/all_name_capital_population_flag_alpha3Code';    // local json-server handcrafted db.json with countries
+const baseUrl = 'https://restcountries.eu/rest/v2/all?fields=name;capital;population;flag;alpha3Code'; //remote url
 
 
 // improved tapi's promise handled here, returns only the response.data
