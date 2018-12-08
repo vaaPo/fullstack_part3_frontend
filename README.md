@@ -1,5 +1,14 @@
 ## hw 3.11 build ?
 # fullstack_part3_frontend
+
+### building, fix .gitignore in backend by commenting out ./build
+```
+npm run build
+cp -r build ../fullstack_part3_backend
+```
+
+
+
 Fronted for https://fullstackopen.github.io/osa3/ see fullstack_part3_backend and fullstack
 
 
