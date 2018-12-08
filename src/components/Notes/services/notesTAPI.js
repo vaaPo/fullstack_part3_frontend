@@ -1,6 +1,6 @@
 import axios from 'axios';
 //const baseUrl = 'http://localhost:3001/notes';
-const baseurl = 'https://mysterious-fjord-82967.herokuapp.com/notes'; //FIXME hw3.11
+const baseUrl = 'https://mysterious-fjord-82967.herokuapp.com/notes'; //FIXME hw3.11
 
 // vanilla approach, returns promised which must be handled by the caller
 const getAll = () => {
