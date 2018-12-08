@@ -5,7 +5,7 @@ import App from './App';
 import notes from './datafiles/Notes/notes';
 import montakurssia from './components/Kurssi/montakurssia';
 import persons from './datafiles/PhoneBook/persons';
-import './components/AxiosDemos/AxiosDemos.js';
+//import './components/AxiosDemos/AxiosDemos.js'; //FIXME not needed in Heroku backend tricks hw3.1x
 
 console.log("Index.js loading");
 //const kala=AxiosInitialFetchPersons;

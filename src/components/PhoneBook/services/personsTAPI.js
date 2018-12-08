@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseUrl = 'https://mysterious-fjord-82967.herokuapp.com/'; //FIXME hw3.11
+const baseUrl = 'https://mysterious-fjord-82967.herokuapp.com/api/persons'; //FIXME hw3.11
 //const baseUrl = 'http://localhost:3001/api/persons';  //FIXME hw3.9
 //const baseUrl = 'http://localhost:3001/persons';
 

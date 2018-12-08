@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production for hw3.11
+# /build
 
 # misc
 .DS_Store
