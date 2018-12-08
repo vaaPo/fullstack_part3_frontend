@@ -33,7 +33,7 @@ console.log("App.js - just before return");
 
     return (
       <div>
-        <div id="opetusohjelma"><h1>App hworks for part2 by Paavo</h1> + some lecture stuff
+        <div id="opetusohjelma"><h1>App hworks for part2-3 by Paavo</h1> + some lecture stuff
         <div id="AppPhoneBook"><h2>AppPhoneBook HW2.6-HW2.11, HW2.14-HW2.19</h2><AppPhoneBook /></div>
         <div id="AppCountries"><h2>AppCountries HW2.11-HW2.13</h2><AppCountries /></div>        
         <div id="Kurssit"><h2>Kurssit HW2.1-HW2.5</h2><Kurssit kurssit={this.state.kurssit}/></div>

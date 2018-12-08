@@ -4,7 +4,8 @@
 
 ### building, fix .gitignore in backend by commenting out ./build
 ```
-npm run build
+npm run build 
+rm -rf ../fullstack_part3_backend/build
 cp -r build ../fullstack_part3_backend
 ```
 
